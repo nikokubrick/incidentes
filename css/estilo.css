@@ -1,0 +1,14 @@
+#feed {
+    width: 300px;
+    margin: auto;
+    padding: 6px;
+    border: 1px solid purple;
+
+}
+
+#loader {
+    font-size: 20px;
+    text-align: center;
+
+
+}
